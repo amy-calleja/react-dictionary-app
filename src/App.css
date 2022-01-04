@@ -7,5 +7,64 @@
   align-items: center;
   justify-content: center;
   font-size: calc(10px + 2vmin);
-  color: rgb(53, 51, 51);
+  color: #5a6275;
+}
+
+.App h1 {
+  margin: 50px;
+}
+
+.Dictionary .subtitle {
+  color: #1ab2a8;
+  font-style: normal;
+  font-size: 22px;
+  font-weight: 600;
+  margin: 4px;
+}
+
+.App input {
+  margin: 0px;
+  padding: 8px;
+  background-color: #e3f5f4;
+  border: solid 2px #e3f5f4;
+  border-radius: 5px;
+  color: #07a89e;
+  line-height: 6px;
+  width: 300px;
+  outline: none;
+  font-size: 17px;
+  font-weight: 600;
+  text-transform: capitalize;
+}
+
+.App button {
+  margin-left: 10px;
+  padding: 8px;
+  background-color: white;
+  border: solid 2px #bbe9e7;
+  border-radius: 5px;
+  color: #07a89e;
+  outline: none;
+  font-size: 17px;
+  font-weight: 600;
+}
+
+.Dictionary form {
+  margin: 0px 10px 10px;
+}
+
+.Dictionary .SearchResults {
+  margin: 5px 110px auto;
+  font-size: 15px;
+  color: #5a6275;
+  text-align: left;
+}
+
+.Dictionary h3 {
+  color: #1ab2a8;
+  font-style: italic;
+}
+
+em {
+  line-height: 1.7;
 }
