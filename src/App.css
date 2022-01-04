@@ -10,6 +10,18 @@
   color: #5a6275;
 }
 
+.Footer {
+  font-size: 12px;
+  margin: 20px;
+  color: #5a6275;
+  font-style: italic;
+}
+
+.Footer a {
+  color: rgba(41, 197, 171, 0.945);
+  text-decoration: none;
+}
+
 .App h1 {
   margin: 50px;
 }
