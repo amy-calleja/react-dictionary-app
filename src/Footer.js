@@ -6,6 +6,7 @@ export default function Footer() {
       <a
         href="https://github.com/amy-calleja/react-dictionary-app"
         target="_blank"
+        rel="noopener noreferrer"
       >
         React open-source code{" "}
       </a>
