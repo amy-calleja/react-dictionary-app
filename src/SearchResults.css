@@ -1,0 +1,24 @@
+.SearchResults {
+  margin: 10px 70px auto;
+  font-size: 16px;
+  color: #5a6275;
+  text-align: left;
+}
+
+.SearchResults h2 {
+  font-size: 34px;
+  margin: 10px 0px 10px;
+}
+
+.SearchResults h3 {
+  font-size: 23px;
+  margin: 10px 0px 10px;
+}
+
+.SearchResults section {
+  background-color: white;
+  margin-bottom: 35px;
+  padding: 20px 45px 20px;
+  border-radius: 8px;
+  box-shadow: 0 8px 13px rgb(0 0 0 / 7%);
+}

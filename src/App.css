@@ -1,5 +1,6 @@
-.App {
+body {
   text-align: center;
+  background-color: rgb(236, 250, 249);
 }
 
 .App-header {
@@ -10,91 +11,6 @@
   color: #5a6275;
 }
 
-.Footer {
-  font-size: 12px;
-  margin: 20px;
-  color: #5a6275;
-  font-style: italic;
-}
-
-.Footer a {
-  color: rgba(41, 197, 171, 0.945);
-  text-decoration: none;
-}
-
 .App h1 {
   margin: 50px;
-}
-
-.Dictionary .subtitle {
-  color: #1ab2a8;
-  font-style: normal;
-  font-size: 22px;
-  font-weight: 600;
-  margin: 4px;
-}
-
-.App input {
-  margin: 0px;
-  padding: 8px;
-  background-color: #e3f5f4;
-  border: solid 2px #e3f5f4;
-  border-radius: 5px;
-  color: #07a89e;
-  line-height: 6px;
-  width: 300px;
-  outline: none;
-  font-size: 17px;
-  font-weight: 600;
-  text-transform: capitalize;
-}
-
-.App button {
-  margin: 10px;
-  padding: 8px;
-  background-color: white;
-  border: solid 2px #bbe9e7;
-  border-radius: 5px;
-  color: #07a89e;
-  outline: none;
-  font-size: 17px;
-  font-weight: 600;
-}
-
-.Dictionary form {
-  margin: 0px 10px 10px;
-}
-
-.Dictionary .SearchResults {
-  margin: 5px 110px auto;
-  font-size: 15px;
-  color: #5a6275;
-  text-align: left;
-}
-
-.Dictionary h3 {
-  color: #1ab2a8;
-  font-style: italic;
-}
-
-.SearchResults h2 {
-  font-size: 34px;
-  margin: 5 0px;
-}
-
-em {
-  line-height: 1.7;
-}
-
-.App .KeywordPhonetic {
-  font-size: 26px;
-  font-style: italic;
-}
-
-.KeywordPhonetic .audioPlayer {
-  margin-left: 30px;
-  position: relative;
-  top: 18px;
-  display: inline-block;
-  width: 50%;
 }

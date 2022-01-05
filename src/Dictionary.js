@@ -1,6 +1,7 @@
 import axios from "axios";
 import React, { useState } from "react";
 import SearchResults from "./SearchResults";
+import "./Dictionary.css";
 
 export default function Dictionary() {
   const [keyword, setKeyword] = useState("");

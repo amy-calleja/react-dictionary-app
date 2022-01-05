@@ -1,5 +1,6 @@
 import React from "react";
 import ReactAudioPlayer from "react-audio-player";
+import "./KeywordPhonetic.css";
 
 export default function KeywordPhonetic(props) {
   console.log(props.phonetic);

@@ -1,0 +1,58 @@
+.Dictionary form {
+  margin: 0px 10px 10px;
+}
+
+.Dictionary h3 {
+  color: #1ab2a8;
+  font-style: italic;
+}
+
+.Dictionary .subtitle {
+  color: #1ab2a8;
+  font-style: normal;
+  font-size: 22px;
+  font-weight: 600;
+  margin: 4px;
+}
+
+em {
+  line-height: 1.7;
+}
+
+.Dictionary input {
+  margin: 0px;
+  padding: 8px;
+  padding-left: 13px;
+  background-color: white;
+  border: solid 2px white;
+  border-radius: 5px;
+  color: #5a6275;
+  line-height: 6px;
+  width: 300px;
+  outline: none;
+  font-size: 17px;
+  font-weight: 600;
+  text-transform: capitalize;
+  box-shadow: 0 8px 13px rgb(0 0 0 / 7%);
+}
+
+.Dictionary button {
+  margin: 10px;
+  padding: 8px;
+  background-color: #07a89e;
+  border: solid 2px #07a89e;
+  border-radius: 5px;
+  color: white;
+  outline: none;
+  font-size: 17px;
+  font-weight: 600;
+  box-shadow: 0 8px 13px rgb(0 0 0 / 7%);
+  transition: all 150ms ease-in-out;
+  cursor: pointer;
+}
+
+.Dictionary button:hover {
+  background-color: white;
+  color: #07a89e;
+  border: solid 2px white;
+}
