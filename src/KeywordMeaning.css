@@ -1,0 +1,11 @@
+.KeywordMeaning .definition {
+  margin: 18px 0px 0px;
+  font-size: 18px;
+}
+
+.KeywordMeaning .definitionExample {
+  opacity: 0.6;
+  font-size: 15px;
+  font-style: italic;
+  margin-top: 5px;
+}

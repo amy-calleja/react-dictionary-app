@@ -9,3 +9,7 @@
   color: rgba(41, 197, 171, 0.945);
   text-decoration: none;
 }
+
+.Footer a:hover {
+  color: rgba(35, 223, 191, 0.945);
+}

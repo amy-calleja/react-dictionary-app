@@ -6,7 +6,8 @@ export default function KeywordPhonetic(props) {
   console.log(props.phonetic);
   return (
     <div className="KeywordPhonetic">
-      /{props.phonetic.text}
+      /{props.phonetic.text}/
+      <br />{" "}
       <div className="audioPlayer">
         <ReactAudioPlayer
           src={props.phonetic.audio}

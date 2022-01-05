@@ -3,13 +3,13 @@
   font-style: italic;
   font-weight: 600;
   opacity: 0.6;
-  padding-bottom: 20px;
+  padding-bottom: 23px;
 }
 
 .KeywordPhonetic .audioPlayer {
-  margin-left: 35px;
   position: relative;
-  top: 16px;
+  top: 11px;
+  right: 8px;
   display: inline-block;
   width: 50%;
 }

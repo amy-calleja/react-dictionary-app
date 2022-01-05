@@ -28,6 +28,9 @@ export default function Dictionary() {
         <input type="search" autoFocus={true} onChange={handleKeywordChange} />
         <button value="submit">Search</button>
       </form>
+      <div className="suggestedWords">
+        example: wine, kitten, happy, yoga...
+      </div>
       <br />
       <SearchResults results={results} />
     </div>
