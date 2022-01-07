@@ -4,7 +4,7 @@ body {
 }
 
 .App-header {
-  margin: 80px auto;
+  margin: 35px auto;
   align-items: center;
   justify-content: center;
   font-size: calc(10px + 2vmin);
@@ -12,5 +12,5 @@ body {
 }
 
 .App h1 {
-  margin: 50px;
+  margin: 30px;
 }
