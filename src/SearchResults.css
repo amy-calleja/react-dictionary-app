@@ -6,7 +6,7 @@
 
 .SearchResults h2 {
   font-size: 34px;
-  margin: 10px 0px 10px;
+  margin: 5px 0px 10px;
 }
 
 .SearchResults h3 {
@@ -16,7 +16,7 @@
 
 .SearchResults section {
   background-color: white;
-  margin-bottom: 35px;
+  margin-bottom: 30px;
   border-radius: 8px;
   padding: 5px 25px 10px;
   text-align: left;

@@ -56,9 +56,7 @@ export default function Dictionary(props) {
           />
           <button value="submit">Search</button>
         </form>
-        <div className="suggestedWords">
-          example: wine, kitten, happy, yoga...
-        </div>
+        <div className="suggestedWords">example: wine, happiness, yoga...</div>
         <br />
         <SearchResults results={results} />
         <Photos photos={photos} />

@@ -10,7 +10,7 @@ function App() {
         <section>
           <img src={logo} alt="search" />
           <h1>Dictionary App</h1>
-          <Dictionary defaultKeyword="sunset" />
+          <Dictionary defaultKeyword="ocean" />
         </section>
       </header>
       <Footer />
