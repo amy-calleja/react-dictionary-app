@@ -9,7 +9,9 @@ function App() {
       <header className="App-header">
         <section>
           <img src={logo} alt="search" />
-          <h1>Dictionary App</h1>
+          <h1>
+            Dictionary App
+           </h1>
           <Dictionary defaultKeyword="ocean" />
         </section>
       </header>

@@ -6,8 +6,10 @@
 .Dictionary .subtitle {
   color: #1ab2a8;
   font-style: normal;
-  font-size: 22px;
+  font-size: 21px;
   font-weight: 600;
+  position: relative;
+  top: 8px;
 }
 
 em {
